@@ -1,8 +1,8 @@
 '''
-Sign your name:________________
+# 11.0 Jedi Training (45pts)  Name:________________
  
-All questions are about the final code in Chapter 12:
-
+CHAPTER 11 FINAL CODE QUESTIONS: (10pts)
+--------------------------------
 1.) Where is the ball's original location?
 
 2.) What are the variables dx and dy?
@@ -22,7 +22,4 @@ All questions are about the final code in Chapter 12:
 9.) What is this code checking?  self.pos_y > SH - self.rad:
 
 10.) What is this code checking? if self.pos_x < self.rad
-
-
-
 '''
